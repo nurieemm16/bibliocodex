@@ -1,1 +1,4 @@
-Para poder ver la página web, debes seguir los siguientes pasos: primero abrir la base de datos de bibliotecacompleta en MySQL para ver los datos de la biblioteca, seguidamente abrir el proyecto biblitoecacompletanuria en NetBeans, darle al botón de run, y ya, por último, ir al navegador para la página web en http://localhost:8080/.
+Welcome to the Codex Library Management Website!
+This site is currently under development. As a library member, you can sign up to borrow books, return them, and browse the library's catalog. Authors can also sign up to publish their works and showcase them in the Codex Library. There’s a section for library activities as well.
+
+To view the project locally, open bibliotecanuriacompleta.sql database, then launch NetBeans and click 'Run', and finally, access the site via localhost.
